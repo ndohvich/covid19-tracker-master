@@ -2,7 +2,7 @@
 
 1 - Clone the repo to your local computer with the command:
 
-git clone https://github.com/mouzong/covid19-tracker.git
+2 - install the components npm i
 
-2 - 
+3- npm start 
 
